@@ -1,0 +1,68 @@
+{
+  "run_at": "2026-11-14T03:12:16+00:00",
+  "embedding_model": "openai/text-embedding-3-small",
+  "dimensions": 1536,
+  "chromadb_version": "1.5.9",
+  "chunk_sets": {
+    "A": {
+      "params": {
+        "size": 500,
+        "overlap": 50
+      },
+      "first_sync": {
+        "input_chunks": 629,
+        "embedded": 629,
+        "unchanged": 0,
+        "deleted_obsolete": 0,
+        "collection_count": 629
+      },
+      "first_sync_seconds": 22.95,
+      "resync_same_data": {
+        "input_chunks": 629,
+        "embedded": 0,
+        "unchanged": 629,
+        "deleted_obsolete": 0,
+        "collection_count": 629
+      },
+      "resync_seconds": 0.05,
+      "embedding_usage": {
+        "requests": 10,
+        "prompt_tokens": 135704,
+        "cost_usd": 0.00271408
+      },
+      "no_duplicates": true
+    },
+    "B": {
+      "params": {
+        "max_size": 1000
+      },
+      "first_sync": {
+        "input_chunks": 426,
+        "embedded": 426,
+        "unchanged": 0,
+        "deleted_obsolete": 0,
+        "collection_count": 426
+      },
+      "first_sync_seconds": 15.74,
+      "resync_same_data": {
+        "input_chunks": 426,
+        "embedded": 0,
+        "unchanged": 426,
+        "deleted_obsolete": 0,
+        "collection_count": 426
+      },
+      "resync_seconds": 0.04,
+      "embedding_usage": {
+        "requests": 7,
+        "prompt_tokens": 124230,
+        "cost_usd": 0.0024846
+      },
+      "no_duplicates": true
+    }
+  },
+  "total_usage_incl_probe": {
+    "requests": 18,
+    "prompt_tokens": 259941,
+    "cost_usd": 0.00519882
+  }
+}

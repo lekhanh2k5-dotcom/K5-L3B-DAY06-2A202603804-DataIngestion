@@ -1,0 +1,27 @@
+{
+  "frozen_at": "2026-11-14, trước khi chạy retrieval; chỉ được chỉnh dựa trên dev và phải ghi vào artifacts/experiment_log.csv",
+  "embedding": {"provider": "OpenRouter", "model": "openai/text-embedding-3-small", "dimensions": 1536,
+                "query_document_handling": "cùng model, không prefix/instruction cho cả query và document"},
+  "vector_store": {"backend": "chromadb", "version": "1.5.9", "mode": "PersistentClient", "metric": "cosine"},
+  "top_k": 3,
+  "selection_rule": {
+    "decided_at": "2026-11-14, trước khi chạy retrieval trên dev và test",
+    "order": ["dev Evidence Hit@3 (cao hơn)", "dev Hit@1 (cao hơn)", "grounding thủ công (cao hơn)", "tài nguyên: số chunk/token (ít hơn)"],
+    "test_usage": "test chỉ chạy SAU khi đã chọn chiến lược trên dev và ghi results/selection.json; chỉ dùng để báo cáo, không dùng để chọn/chỉnh",
+    "amendment": {
+      "decided_at": "2026-11-14, SAU khi xem kết quả dev, TRƯỚC khi chạy test",
+      "reason": "B và C hòa ở bước 1, 2 và 4 (cùng bộ chunk); bước 3 (grounding thủ công) chỉ chấm trên test nên không dùng để chọn được mà không nhìn test.",
+      "tie_breaker": "dev filter compliance (top-3 tuân thủ filter / số câu có filter), cao hơn thắng; áp dụng trước bước 3"
+    }
+  },
+  "chunking": {
+    "A": {"function": "fixed_size", "params": {"size": 500, "overlap": 50}},
+    "B": {"function": "by_paragraph", "params": {"max_size": 1000}}
+  },
+  "strategies": {
+    "A": {"chunks": "A", "use_filter": false},
+    "B": {"chunks": "B", "use_filter": false},
+    "C": {"chunks": "B", "use_filter": true, "filter_fields": ["law_year"],
+          "note": "chỉ áp dụng filter cho câu có trường filter; câu không có filter chạy như B"}
+  }
+}

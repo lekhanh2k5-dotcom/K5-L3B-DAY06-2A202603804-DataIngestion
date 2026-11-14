@@ -1,0 +1,28 @@
+{
+  "extractor": "PyMuPDF 2.1",
+  "usable_pages": 133,
+  "excluded_pages": [
+    {
+      "document_id": "luat-gtdb-2008",
+      "page": 61,
+      "chars": 0,
+      "reason": "empty_or_short (<200 chars)",
+      "sample": ""
+    },
+    {
+      "document_id": "luat-ttatgtdb-2024",
+      "page": 74,
+      "chars": 1662,
+      "reason": "garbled_extraction (Vietnamese diacritics missing / wrong glyphs)",
+      "sample": "4. Nguoi h9c lai xe da dugc dao t~o lai xe tru6c ngay Lu~t nay c6 hi~u lµc thi hanh ho~c dang dugc dao t~o lai xe t~i ng"
+    }
+  ],
+  "total_chars": 260519,
+  "chars_per_page": {
+    "min": 536,
+    "median": 1894,
+    "max": 2857
+  },
+  "footnotes_moved_to_metadata": 59,
+  "seconds": 0.7
+}

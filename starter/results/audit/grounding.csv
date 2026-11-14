@@ -1,0 +1,289 @@
+﻿strategy,question_id,question,question_filter,filter_applied,expected_answer,gold,evidence_quote,auto_evidence_hit@3_proxy,top1,top2,top3,label_0_1_2,reason
+A,t01,Giấy phép lái xe hạng B2 được cấp cho ai và để lái những loại xe nào?,"{""law_year"": 2008}",,"Người hành nghề lái xe, điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg (Luật GTĐB 2008, Điều 59).",luat-gtdb-2008:p44,"Hạng B2 cấp cho người hành nghề lái xe điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;",False,"[luat-gtdb-2008:p44:A:001 | 2008 | Điều 59 | score 0.709]
+người trên 30 chỗ ngồi và các loại xe quy định cho các giấy phép lái xe hạng B1, B2, C, D;
+g) Giấy phép lái xe hạng FB2, FD, FE cấp cho người lái xe đã có giấy phép lái xe hạng B2, D, E để lái các loại xe quy định cho các giấy phép lái xe hạng này khi kéo rơ moóc hoặc xe ô tô chở khách nối toa; hạng FC cấp cho người lái xe đã có giấy phép lái xe hạng C để lái các loại xe quy định cho hạng C khi kéo rơ moóc, đầu kéo kéo sơ mi rơ moóc.
+5. Giấy phép lái xe có giá trị sử dụng trong phạm vi lãnh thổ","[luat-ttatgtdb-2024:p46:A:005 | 2024 | Điều 57 | score 0.671]
+định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+p) Hạng DE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô chở khách nối toa.
+2. Người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật được cấp giấy phép lái xe hạng A1.","[luat-gtdb-2008:p45:A:003 | 2008 | Điều 61 | score 0.655]
+giấy phép lái xe từ các hạng B2, C, D, E lên các hạng giấy phép lái các xe tương ứng có kéo rơ moóc, sơ mi rơ moóc.
+5. Người có nhu cầu được đào tạo nâng hạng giấy phép lái xe theo quy định tại khoản 4 Điều này còn phải có đủ thời gian và số ki-lô-mét lái xe an toàn quy định cho từng hạng giấy phép lái xe; người có nhu cầu được đào tạo nâng hạng giấy phép lái xe lên hạng D, E tối thiểu phải có trình độ văn hóa trung học cơ sở.",0,"top1 (Điều 59 luật 2008) chỉ nhắc tên hạng B2 trong điều khoản các hạng khác (E, FB2), không có định nghĩa hạng B2; top2 luật 2024, top3 Điều 61 → không chunk nào trả lời được [rà soát nhất quán sau chấm, 2026-11-14]"
+A,t02,Giấy phép lái xe hạng A1 cho phép lái loại xe mô tô nào?,"{""law_year"": 2024}",,"Xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc công suất động cơ điện đến 11 kW (Luật TTATGTĐB 2024, Điều 57).",luat-ttatgtdb-2024:p45,Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW;,False,"[luat-gtdb-2008:p43:A:002 | 2008 | Điều 59 | score 0.675]
+xi-lanh từ 175 cm3 trở lên và các loại xe quy định cho giấy phép lái xe hạng A1;
+c) Hạng A3 cấp cho người lái xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 và các xe tương tự.
+3. Người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật được cấp giấy phép lái xe hạng A1.
+4. Giấy phép lái xe có thời hạn gồm các hạng sau đây:
+a) Hạng A4 cấp cho người lái máy kéo có trọng tải đến 1.000 kg;
+b) Hạng B1 cấp cho người không hành nghề lái xe điều khiển xe ô tô chở","[luat-ttatgtdb-2024:p72:A:000 | 2024 | Điều 89 | score 0.648]
+a) Giấy phép lái xe hạng A1 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 50 cm3 đến dưới 175 cm3 hoặc có công suất động cơ điện từ 04 kW đến dưới 14 kW;
+b) Giấy phép lái xe hạng A2 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 175 cm3 trở lên hoặc có công suất động cơ điện từ 14 kW trở lên và các loại xe quy định cho giấy phép lái xe hạng A1 quy định tại điểm a khoản này;
+c) Giấy phép lái xe hạng A3 được tiếp tục điều khiển xe mô tô ba bánh, các loại","[luat-ttatgtdb-2024:p45:A:004 | 2024 | Điều 57 | score 0.639]
+đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW;
+b) Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1;
+c) Hạng B1 cấp cho người lái xe mô tô ba bánh và các loại xe quy định cho giấy phép lái xe hạng A1;
+d) Hạng B cấp cho người lái xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500",1,top1 sai năm (2008 thay vì 2024); top3 có Điều 57 luật 2024 với nội dung A1 đúng nhưng chunk bắt đầu từ giữa; evidence quote khớp top3 nhưng không ở top1
+A,t03,"Không được bấm còi xe trong khoảng thời gian nào, ở khu vực nào?","{""law_year"": 2024}",,"Từ 22 giờ hôm trước đến 05 giờ hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên; ngoài ra không dùng còi liên tục hoặc có âm lượng không đúng quy định (Luật TTATGTĐB 2024, Điều 21).",luat-ttatgtdb-2024:p17,"không sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên.",True,"[luat-ttatgtdb-2024:p14:A:002 | 2024 | Điều 14 | score 0.581]
+vượt xe; trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn.
+6. Không được vượt xe trong trường hợp sau đây:
+a) Khi không bảo đảm các điều kiện quy định tại khoản 3 Điều này;
+b) Trên cầu hẹp có một làn đường;
+c) Đường cong có tầm nhìn bị hạn chế;
+d) Trên đường hai chiều tại khu vực đỉnh dốc có tầm nhìn bị hạn chế;
+đ) Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt;
+e) Khi điều kiện thời tiết hoặc","[luat-ttatgtdb-2024:p17:A:003 | 2024 | Điều 21 | score 0.580]
+gia giao thông đường bộ khi xuất hiện tình huống có thể mất an toàn giao thông;
+b) Báo hiệu chuẩn bị vượt xe.
+2. Không sử dụng còi liên tục; không sử dụng còi có âm lượng không đúng quy định; không sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên.
+Điều 22. Nhường đường tại nơi đường giao nhau Khi đến gần đường giao nhau, người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát,","[luat-gtdb-2008:p17:A:000 | 2008 | Điều 18 | score 0.558]
+đ) Không mở cửa xe, để cửa xe mở hoặc bước xuống xe khi chưa bảo đảm điều kiện an toàn;
+e) Khi dừng xe, không được tắt máy và không được rời khỏi vị trí lái;
+g) Xe đỗ trên đoạn đường dốc phải được chèn bánh.
+4. Người điều khiển phương tiện không được dừng xe, đỗ xe tại các vị trí sau đây:
+a) Bên trái đường một chiều;
+b) Trên các đoạn đường cong và gần đầu dốc tầm nhìn bị che khuất;
+c) Trên cầu, gầm cầu vượt;
+d) Song song với một xe khác đang dừng, đỗ;
+đ) Trên phần đường dành cho người đi bộ qua",2,"top2 có Điều 21 luật 2024 với nội dung đầy đủ: không dùng còi 22h-05h trong khu đông dân cư, cơ sở khám bệnh, trừ xe ưu tiên; evidence quote khớp chính xác"
+A,t04,"Uống rượu bia rồi lái xe, dù chỉ có một chút nồng độ cồn, có bị cấm không?",,,Có. Nghiêm cấm điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn (cả hai luật đều quy định).,luat-gtdb-2008:p10 | luat-ttatgtdb-2024:p7,Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn.,False,"[luat-gtdb-2008:p22:A:000 | 2008 | Điều 26 | score 0.490]
+d) Không được cho xe chạy quá tốc độ tối đa và dưới tốc độ tối thiểu ghi trên biển báo hiệu, sơn kẻ trên mặt đường.
+2. Người lái xe, người điều khiển xe máy chuyên dùng phải cho xe chạy cách nhau một khoảng cách an toàn ghi trên biển báo hiệu.
+3. Chỉ được dừng xe, đỗ xe ở nơi quy định; trường hợp buộc phải dừng xe, đỗ xe không đúng nơi quy định thì người lái xe phải đưa xe ra khỏi phần đường xe chạy, nếu không thể được thì phải báo hiệu để người lái xe khác biết.
+4. Người đi bộ, xe thô sơ, xe","[luat-gtdb-2008:p51:A:003 | 2008 | Điều 72 | score 0.475]
+che đậy, không để rơi vãi.
+2. Không được thực hiện các hành vi sau đây:
+a) Chở hàng vượt quá trọng tải thiết kế và quá kích thước giới hạn cho phép của xe;
+b) Chở người trong thùng xe, trừ trường hợp quy định tại khoản 1 Điều 21 của Luật này.","[luat-gtdb-2008:p14:A:001 | 2008 | Điều 13 | score 0.473]
+đi trên làn đường bên trái.
+3. Phương tiện tham gia giao thông đường bộ di chuyển với tốc độ thấp hơn phải đi về bên phải.
+Điều 14. Vượt xe
+1. Xe xin vượt phải có báo hiệu bằng đèn hoặc còi; trong đô thị và khu đông dân cư từ 22 giờ đến 5 giờ chỉ được báo hiệu xin vượt bằng đèn.
+2. Xe xin vượt chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác và đã tránh về bên phải.
+3. Khi có xe xin vượt,",0,"top-3 toàn về tốc độ/chở hàng/vượt xe (Điều 26, 72, 13), không có bằng chứng nào về cấm nồng độ cồn; gold page p10/p7 không xuất hiện"
+A,t05,Trong những trường hợp nào người lái xe phải chuyển từ đèn pha (chiếu xa) sang đèn cốt (chiếu gần)?,,,Khi gặp người đi bộ qua đường; khi đi qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động; khi gặp xe đi ngược chiều (trừ khi dải phân cách có khả năng chống chói); khi chuyển hướng xe tại nơi đường giao nhau.,luat-ttatgtdb-2024:p17,"phải tắt đèn chiếu xa, bật đèn chiếu gần trong các trường hợp sau đây: a) Khi gặp người đi bộ qua đường; b) Khi đi trên các đoạn đường qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động; c) Khi gặp xe đi ngược chiều, trừ trường hợp dải phân cách có khả năng chống chói; d) Khi chuyển hướng xe tại nơi đường giao nhau.",False,"[luat-ttatgtdb-2024:p18:A:004 | 2024 | Điều 24 | score 0.571]
+đèn đỏ sáng nhấp nháy, chuông kêu, chắn đường bộ đang dịch chuyển hoặc đã đóng, người tham gia giao thông đường bộ phải dừng lại về bên phải đường của mình, trước vạch dừng xe.","[luat-ttatgtdb-2024:p13:A:001 | 2024 | Điều 13 | score 0.570]
+phải đi về bên phải theo chiều đi của mình.
+2. Trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường, người điều khiển phương tiện tham gia giao thông đường bộ phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; mỗi lần chuyển làn đường chỉ được phép chuyển sang một làn đường liền kề; khi chuyển làn đường phải có tín hiệu báo trước; phải quan sát bảo đảm khoảng cách an toàn với xe phía trước, phía sau và hai bên mới được","[luat-ttatgtdb-2024:p17:A:001 | 2024 | Điều 20 | score 0.565]
+xe máy chuyên dùng tham gia giao thông đường bộ phải bật đèn chiếu sáng phía trước trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau hoặc khi có sương mù, khói, bụi, trời mưa, thời tiết xấu làm hạn chế tầm nhìn.
+2. Người lái xe, người điều khiển xe máy chuyên dùng phải tắt đèn chiếu xa, bật đèn chiếu gần trong các trường hợp sau đây:
+a) Khi gặp người đi bộ qua đường;
+b) Khi đi trên các đoạn đường qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động;
+c) Khi gặp xe đi ngược",1,"top3 có Điều 20 luật 2024 nhưng bị cắt ở điểm c (""Khi gặp xe đi ngược""), thiếu ngoại lệ chống chói và điểm d (chuyển hướng tại nơi giao nhau); top1-2 không liên quan [rà soát nhất quán sau chấm, 2026-11-14]"
+B,t01,Giấy phép lái xe hạng B2 được cấp cho ai và để lái những loại xe nào?,"{""law_year"": 2008}",,"Người hành nghề lái xe, điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg (Luật GTĐB 2008, Điều 59).",luat-gtdb-2008:p44,"Hạng B2 cấp cho người hành nghề lái xe điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;",True,"[luat-ttatgtdb-2024:p45:B:002 | 2024 | Điều 57 | score 0.664]
+Điều 57. Giấy phép lái xe
+1. Giấy phép lái xe bao gồm các hạng sau đây:
+a) Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW;
+b) Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1;
+c) Hạng B1 cấp cho người lái xe mô tô ba bánh và các loại xe quy định cho giấy phép lái xe hạng A1;
+d) Hạng B cấp cho người lái xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg; các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg;","[luat-gtdb-2008:p44:B:000 | 2008 | Điều 59 | score 0.663]
+c) Hạng B2 cấp cho người hành nghề lái xe điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;
+d) Hạng C cấp cho người lái xe ô tô tải, máy kéo có trọng tải từ 3.500 kg trở lên và các loại xe quy định cho các giấy phép lái xe hạng B1, B2;
+đ) Hạng D cấp cho người lái xe ô tô chở người từ 10 đến 30 chỗ ngồi và các loại xe quy định cho các giấy phép lái xe hạng B1, B2, C;
+e) Hạng E cấp cho người lái xe ô tô chở người trên 30 chỗ ngồi và các loại xe quy định cho các giấy phép lái xe hạng B1, B2, C, D;
+g) Giấy phép lái xe hạng FB2, FD, FE cấp cho người lái xe đã có giấy phép lái xe hạng B2, D, E để lái các loại xe quy định cho các giấy phép lái xe hạng này khi kéo rơ moóc hoặc xe ô tô chở khách nối toa; hạng FC cấp cho người lái xe đã có giấy phép lái xe hạng C để lái các loại xe quy định cho hạng C khi kéo rơ moóc, đầu kéo kéo sơ mi rơ moóc.","[luat-ttatgtdb-2024:p46:B:002 | 2024 | Điều 57 | score 0.644]
+m) Hạng CE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc;
+n) Hạng D1E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+o) Hạng D2E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+p) Hạng DE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô chở khách nối toa.
+2. Người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật được cấp giấy phép lái xe hạng A1.",2,"top2 có Điều 59 luật 2008 với nội dung B2 đầy đủ: 'người hành nghề lái xe, chở người đến 9 chỗ, tải dưới 3.500 kg'; evidence quote khớp chính xác"
+B,t02,Giấy phép lái xe hạng A1 cho phép lái loại xe mô tô nào?,"{""law_year"": 2024}",,"Xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc công suất động cơ điện đến 11 kW (Luật TTATGTĐB 2024, Điều 57).",luat-ttatgtdb-2024:p45,Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW;,True,"[luat-ttatgtdb-2024:p45:B:002 | 2024 | Điều 57 | score 0.650]
+Điều 57. Giấy phép lái xe
+1. Giấy phép lái xe bao gồm các hạng sau đây:
+a) Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW;
+b) Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1;
+c) Hạng B1 cấp cho người lái xe mô tô ba bánh và các loại xe quy định cho giấy phép lái xe hạng A1;
+d) Hạng B cấp cho người lái xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg; các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg;","[luat-ttatgtdb-2024:p46:B:002 | 2024 | Điều 57 | score 0.646]
+m) Hạng CE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc;
+n) Hạng D1E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+o) Hạng D2E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+p) Hạng DE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô chở khách nối toa.
+2. Người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật được cấp giấy phép lái xe hạng A1.","[luat-ttatgtdb-2024:p72:B:000 | 2024 | Điều 89 | score 0.621]
+a) Giấy phép lái xe hạng A1 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 50 cm3 đến dưới 175 cm3 hoặc có công suất động cơ điện từ 04 kW đến dưới 14 kW;
+b) Giấy phép lái xe hạng A2 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 175 cm3 trở lên hoặc có công suất động cơ điện từ 14 kW trở lên và các loại xe quy định cho giấy phép lái xe hạng A1 quy định tại điểm a khoản này;
+c) Giấy phép lái xe hạng A3 được tiếp tục điều khiển xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 quy định tại điểm a khoản này và các xe tương tự;
+d) Giấy phép lái xe hạng A4 được tiếp tục điều khiển máy kéo có trọng tải đến 1.000 kg;
+đ) Giấy phép lái xe hạng B1 số tự động cấp cho người không hành nghề lái xe được tiếp tục điều khiển xe ô tô số tự động chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải dưới 3.500 kg;",2,top1 có Điều 57 luật 2024 với nội dung A1 chính xác: 'xi-lanh đến 125 cm3 hoặc công suất động cơ điện đến 11 kW'; evidence quote khớp hoàn toàn
+B,t03,"Không được bấm còi xe trong khoảng thời gian nào, ở khu vực nào?","{""law_year"": 2024}",,"Từ 22 giờ hôm trước đến 05 giờ hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên; ngoài ra không dùng còi liên tục hoặc có âm lượng không đúng quy định (Luật TTATGTĐB 2024, Điều 21).",luat-ttatgtdb-2024:p17,"không sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên.",False,"[luat-ttatgtdb-2024:p14:B:001 | 2024 | Điều 14 | score 0.562]
+5. Xe xin vượt phải có báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi, trừ loại xe thô sơ không có đèn chiếu sáng và còi, khi vượt xe phải có tín hiệu báo hướng chuyển, tín hiệu báo hướng chuyển được sử dụng, bảo đảm khoảng cách an toàn với xe phía trước và phía sau trong suốt quá trình vượt xe; trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn.
+6. Không được vượt xe trong trường hợp sau đây:
+a) Khi không bảo đảm các điều kiện quy định tại khoản 3 Điều này;
+b) Trên cầu hẹp có một làn đường;
+c) Đường cong có tầm nhìn bị hạn chế;
+d) Trên đường hai chiều tại khu vực đỉnh dốc có tầm nhìn bị hạn chế;
+đ) Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt;
+e) Khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt;
+g) Khi gặp xe ưu tiên;
+h) Ở phần đường dành cho người đi bộ qua đường;
+i) Khi có người đi bộ, xe lăn của người khuyết tật qua đường;
+k) Trong hầm đường bộ.","[luat-gtdb-2008:p17:B:000 | 2008 | Điều 18 | score 0.560]
+đ) Không mở cửa xe, để cửa xe mở hoặc bước xuống xe khi chưa bảo đảm điều kiện an toàn;
+e) Khi dừng xe, không được tắt máy và không được rời khỏi vị trí lái;
+g) Xe đỗ trên đoạn đường dốc phải được chèn bánh.
+4. Người điều khiển phương tiện không được dừng xe, đỗ xe tại các vị trí sau đây:
+a) Bên trái đường một chiều;
+b) Trên các đoạn đường cong và gần đầu dốc tầm nhìn bị che khuất;
+c) Trên cầu, gầm cầu vượt;
+d) Song song với một xe khác đang dừng, đỗ;
+đ) Trên phần đường dành cho người đi bộ qua đường;
+e) Nơi đường giao nhau và trong phạm vi 5 mét tính từ mép đường giao nhau;
+g) Nơi dừng của xe buýt;
+h) Trước cổng và trong phạm vi 5 mét hai bên cổng trụ sở cơ quan, tổ chức;
+i) Tại nơi phần đường có bề rộng chỉ đủ cho một làn xe;
+k) Trong phạm vi an toàn của đường sắt;
+l) Che khuất biển báo hiệu đường bộ.","[luat-gtdb-2008:p22:B:000 | 2008 | Điều 26 | score 0.524]
+d) Không được cho xe chạy quá tốc độ tối đa và dưới tốc độ tối thiểu ghi trên biển báo hiệu, sơn kẻ trên mặt đường.
+2. Người lái xe, người điều khiển xe máy chuyên dùng phải cho xe chạy cách nhau một khoảng cách an toàn ghi trên biển báo hiệu.
+3. Chỉ được dừng xe, đỗ xe ở nơi quy định; trường hợp buộc phải dừng xe, đỗ xe không đúng nơi quy định thì người lái xe phải đưa xe ra khỏi phần đường xe chạy, nếu không thể được thì phải báo hiệu để người lái xe khác biết.
+4. Người đi bộ, xe thô sơ, xe gắn máy, xe mô tô và máy kéo; xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn 70 km/h không được đi vào đường cao tốc, trừ người, phương tiện, thiết bị phục vụ việc quản lý, bảo trì đường cao tốc.",0,"top1 cùng chunk với C (Điều 14 vượt xe, chỉ nhắc khung 22h-05h cho báo hiệu xin vượt); top2-3 luật 2008 (Điều 18, 26) không có nội dung cấm còi → không có bằng chứng, nhất quán với C [rà soát nhất quán sau chấm, 2026-11-14]"
+B,t04,"Uống rượu bia rồi lái xe, dù chỉ có một chút nồng độ cồn, có bị cấm không?",,,Có. Nghiêm cấm điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn (cả hai luật đều quy định).,luat-gtdb-2008:p10 | luat-ttatgtdb-2024:p7,Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn.,False,"[luat-gtdb-2008:p14:B:001 | 2008 | Điều 14 | score 0.479]
+Điều 14. Vượt xe
+1. Xe xin vượt phải có báo hiệu bằng đèn hoặc còi; trong đô thị và khu đông dân cư từ 22 giờ đến 5 giờ chỉ được báo hiệu xin vượt bằng đèn.
+2. Xe xin vượt chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác và đã tránh về bên phải.
+3. Khi có xe xin vượt, nếu đủ điều kiện an toàn, người điều khiển phương tiện phía trước phải giảm tốc độ, đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại đối với xe xin vượt.
+4. Khi vượt, các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải:
+a) Khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái;
+b) Khi xe điện đang chạy giữa đường;
+c) Khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được.
+5. Không được vượt xe khi có một trong các trường hợp sau đây:
+a) Không bảo đảm các điều kiện quy định tại khoản 2 Điều này;","[luat-gtdb-2008:p22:B:000 | 2008 | Điều 26 | score 0.477]
+d) Không được cho xe chạy quá tốc độ tối đa và dưới tốc độ tối thiểu ghi trên biển báo hiệu, sơn kẻ trên mặt đường.
+2. Người lái xe, người điều khiển xe máy chuyên dùng phải cho xe chạy cách nhau một khoảng cách an toàn ghi trên biển báo hiệu.
+3. Chỉ được dừng xe, đỗ xe ở nơi quy định; trường hợp buộc phải dừng xe, đỗ xe không đúng nơi quy định thì người lái xe phải đưa xe ra khỏi phần đường xe chạy, nếu không thể được thì phải báo hiệu để người lái xe khác biết.
+4. Người đi bộ, xe thô sơ, xe gắn máy, xe mô tô và máy kéo; xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn 70 km/h không được đi vào đường cao tốc, trừ người, phương tiện, thiết bị phục vụ việc quản lý, bảo trì đường cao tốc.","[luat-ttatgtdb-2024:p24:B:001 | 2024 | Điều 33 | score 0.473]
+g) Hành vi khác gây mất trật tự, an toàn giao thông đường bộ.
+4. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ không được thực hiện các hành vi sau đây:
+a) Mang, vác vật cồng kềnh;
+b) Sử dụng ô;
+c) Bám, kéo hoặc đẩy các phương tiện khác;
+d) Đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái;
+đ) Hành vi khác gây mất trật tự, an toàn giao thông đường bộ.
+5. Xe mô tô, xe gắn máy không được xếp hàng hóa vượt quá chiều rộng giá đèo hàng về mỗi bên 0,3 mét, vượt quá về phía sau giá đèo hàng 0,5 mét theo thiết kế của nhà sản xuất; chiều cao xếp hàng hóa tính từ mặt đường xe chạy không vượt quá 02 mét.",0,"top-3 toàn về vượt xe/tốc độ/hành vi trên xe mô tô (Điều 14, 26, 33), không có bằng chứng về cấm nồng độ cồn"
+B,t05,Trong những trường hợp nào người lái xe phải chuyển từ đèn pha (chiếu xa) sang đèn cốt (chiếu gần)?,,,Khi gặp người đi bộ qua đường; khi đi qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động; khi gặp xe đi ngược chiều (trừ khi dải phân cách có khả năng chống chói); khi chuyển hướng xe tại nơi đường giao nhau.,luat-ttatgtdb-2024:p17,"phải tắt đèn chiếu xa, bật đèn chiếu gần trong các trường hợp sau đây: a) Khi gặp người đi bộ qua đường; b) Khi đi trên các đoạn đường qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động; c) Khi gặp xe đi ngược chiều, trừ trường hợp dải phân cách có khả năng chống chói; d) Khi chuyển hướng xe tại nơi đường giao nhau.",True,"[luat-ttatgtdb-2024:p17:B:002 | 2024 | Điều 20 | score 0.572]
+Điều 20. Sử dụng đèn
+1. Người lái xe, người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ phải bật đèn chiếu sáng phía trước trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau hoặc khi có sương mù, khói, bụi, trời mưa, thời tiết xấu làm hạn chế tầm nhìn.
+2. Người lái xe, người điều khiển xe máy chuyên dùng phải tắt đèn chiếu xa, bật đèn chiếu gần trong các trường hợp sau đây:
+a) Khi gặp người đi bộ qua đường;
+b) Khi đi trên các đoạn đường qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động;
+c) Khi gặp xe đi ngược chiều, trừ trường hợp dải phân cách có khả năng chống chói;
+d) Khi chuyển hướng xe tại nơi đường giao nhau.
+3. Người lái xe, người điều khiển xe máy chuyên dùng khi thực hiện công việc trên đường bộ phải bật sáng đèn cảnh báo màu vàng.","[luat-ttatgtdb-2024:p14:B:001 | 2024 | Điều 14 | score 0.533]
+5. Xe xin vượt phải có báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi, trừ loại xe thô sơ không có đèn chiếu sáng và còi, khi vượt xe phải có tín hiệu báo hướng chuyển, tín hiệu báo hướng chuyển được sử dụng, bảo đảm khoảng cách an toàn với xe phía trước và phía sau trong suốt quá trình vượt xe; trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn.
+6. Không được vượt xe trong trường hợp sau đây:
+a) Khi không bảo đảm các điều kiện quy định tại khoản 3 Điều này;
+b) Trên cầu hẹp có một làn đường;
+c) Đường cong có tầm nhìn bị hạn chế;
+d) Trên đường hai chiều tại khu vực đỉnh dốc có tầm nhìn bị hạn chế;
+đ) Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt;
+e) Khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt;
+g) Khi gặp xe ưu tiên;
+h) Ở phần đường dành cho người đi bộ qua đường;
+i) Khi có người đi bộ, xe lăn của người khuyết tật qua đường;
+k) Trong hầm đường bộ.","[luat-gtdb-2008:p20:B:003 | 2008 | Điều 25 | score 0.527]
+3. Tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu, khi đèn tín hiệu mầu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu, người tham gia giao thông đường bộ phải dừng ngay lại và giữ khoảng cách tối thiểu 5 mét tính từ ray gần nhất; khi đèn tín hiệu đã tắt hoặc tiếng chuông báo hiệu ngừng mới được đi qua.",2,"top1 có Điều 20 luật 2024 đầy đủ 4 trường hợp chuyển đèn chiếu xa→gần: gặp người đi bộ, khu đông dân cư có chiếu sáng, xe ngược chiều, chuyển hướng tại đường giao nhau"
+C,t01,Giấy phép lái xe hạng B2 được cấp cho ai và để lái những loại xe nào?,"{""law_year"": 2008}","{""law_year"": 2008}","Người hành nghề lái xe, điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg (Luật GTĐB 2008, Điều 59).",luat-gtdb-2008:p44,"Hạng B2 cấp cho người hành nghề lái xe điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;",True,"[luat-gtdb-2008:p44:B:000 | 2008 | Điều 59 | score 0.663]
+c) Hạng B2 cấp cho người hành nghề lái xe điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;
+d) Hạng C cấp cho người lái xe ô tô tải, máy kéo có trọng tải từ 3.500 kg trở lên và các loại xe quy định cho các giấy phép lái xe hạng B1, B2;
+đ) Hạng D cấp cho người lái xe ô tô chở người từ 10 đến 30 chỗ ngồi và các loại xe quy định cho các giấy phép lái xe hạng B1, B2, C;
+e) Hạng E cấp cho người lái xe ô tô chở người trên 30 chỗ ngồi và các loại xe quy định cho các giấy phép lái xe hạng B1, B2, C, D;
+g) Giấy phép lái xe hạng FB2, FD, FE cấp cho người lái xe đã có giấy phép lái xe hạng B2, D, E để lái các loại xe quy định cho các giấy phép lái xe hạng này khi kéo rơ moóc hoặc xe ô tô chở khách nối toa; hạng FC cấp cho người lái xe đã có giấy phép lái xe hạng C để lái các loại xe quy định cho hạng C khi kéo rơ moóc, đầu kéo kéo sơ mi rơ moóc.","[luat-gtdb-2008:p43:B:001 | 2008 | Điều 59 | score 0.620]
+Điều 59. Giấy phép lái xe
+1. Căn cứ vào kiểu loại, công suất động cơ, tải trọng và công dụng của xe cơ giới, giấy phép lái xe được phân thành giấy phép lái xe không thời hạn và giấy phép lái xe có thời hạn.
+2. Giấy phép lái xe không thời hạn bao gồm các hạng sau đây:
+a) Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh từ 50 cm3 đến dưới 175 cm3;
+b) Hạng A2 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh từ 175 cm3 trở lên và các loại xe quy định cho giấy phép lái xe hạng A1;
+c) Hạng A3 cấp cho người lái xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 và các xe tương tự.
+3. Người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật được cấp giấy phép lái xe hạng A1.
+4. Giấy phép lái xe có thời hạn gồm các hạng sau đây:
+a) Hạng A4 cấp cho người lái máy kéo có trọng tải đến 1.000 kg;
+b) Hạng B1 cấp cho người không hành nghề lái xe điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;","[luat-gtdb-2008:p45:B:002 | 2008 | Điều 61 | score 0.618]
+đ) Nâng hạng giấy phép lái xe từ các hạng B2, C, D, E lên các hạng giấy phép lái các xe tương ứng có kéo rơ moóc, sơ mi rơ moóc.
+5. Người có nhu cầu được đào tạo nâng hạng giấy phép lái xe theo quy định tại khoản 4 Điều này còn phải có đủ thời gian và số ki-lô-mét lái xe an toàn quy định cho từng hạng giấy phép lái xe; người có nhu cầu được đào tạo nâng hạng giấy phép lái xe lên hạng D, E tối thiểu phải có trình độ văn hóa trung học cơ sở.",2,"top1 có Điều 59 luật 2008 với B2 đầy đủ, filter áp dụng đúng → toàn bộ top-3 đều từ luật 2008; evidence quote khớp hoàn toàn"
+C,t02,Giấy phép lái xe hạng A1 cho phép lái loại xe mô tô nào?,"{""law_year"": 2024}","{""law_year"": 2024}","Xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc công suất động cơ điện đến 11 kW (Luật TTATGTĐB 2024, Điều 57).",luat-ttatgtdb-2024:p45,Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW;,True,"[luat-ttatgtdb-2024:p45:B:002 | 2024 | Điều 57 | score 0.650]
+Điều 57. Giấy phép lái xe
+1. Giấy phép lái xe bao gồm các hạng sau đây:
+a) Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW;
+b) Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1;
+c) Hạng B1 cấp cho người lái xe mô tô ba bánh và các loại xe quy định cho giấy phép lái xe hạng A1;
+d) Hạng B cấp cho người lái xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg; các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg;","[luat-ttatgtdb-2024:p46:B:002 | 2024 | Điều 57 | score 0.646]
+m) Hạng CE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc;
+n) Hạng D1E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+o) Hạng D2E cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg;
+p) Hạng DE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô chở khách nối toa.
+2. Người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật được cấp giấy phép lái xe hạng A1.","[luat-ttatgtdb-2024:p72:B:000 | 2024 | Điều 89 | score 0.621]
+a) Giấy phép lái xe hạng A1 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 50 cm3 đến dưới 175 cm3 hoặc có công suất động cơ điện từ 04 kW đến dưới 14 kW;
+b) Giấy phép lái xe hạng A2 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 175 cm3 trở lên hoặc có công suất động cơ điện từ 14 kW trở lên và các loại xe quy định cho giấy phép lái xe hạng A1 quy định tại điểm a khoản này;
+c) Giấy phép lái xe hạng A3 được tiếp tục điều khiển xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 quy định tại điểm a khoản này và các xe tương tự;
+d) Giấy phép lái xe hạng A4 được tiếp tục điều khiển máy kéo có trọng tải đến 1.000 kg;
+đ) Giấy phép lái xe hạng B1 số tự động cấp cho người không hành nghề lái xe được tiếp tục điều khiển xe ô tô số tự động chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải dưới 3.500 kg;",2,"top1 có Điều 57 luật 2024 với A1 chính xác, filter áp dụng đúng → toàn bộ top-3 từ luật 2024"
+C,t03,"Không được bấm còi xe trong khoảng thời gian nào, ở khu vực nào?","{""law_year"": 2024}","{""law_year"": 2024}","Từ 22 giờ hôm trước đến 05 giờ hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên; ngoài ra không dùng còi liên tục hoặc có âm lượng không đúng quy định (Luật TTATGTĐB 2024, Điều 21).",luat-ttatgtdb-2024:p17,"không sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên.",False,"[luat-ttatgtdb-2024:p14:B:001 | 2024 | Điều 14 | score 0.562]
+5. Xe xin vượt phải có báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi, trừ loại xe thô sơ không có đèn chiếu sáng và còi, khi vượt xe phải có tín hiệu báo hướng chuyển, tín hiệu báo hướng chuyển được sử dụng, bảo đảm khoảng cách an toàn với xe phía trước và phía sau trong suốt quá trình vượt xe; trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn.
+6. Không được vượt xe trong trường hợp sau đây:
+a) Khi không bảo đảm các điều kiện quy định tại khoản 3 Điều này;
+b) Trên cầu hẹp có một làn đường;
+c) Đường cong có tầm nhìn bị hạn chế;
+d) Trên đường hai chiều tại khu vực đỉnh dốc có tầm nhìn bị hạn chế;
+đ) Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt;
+e) Khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt;
+g) Khi gặp xe ưu tiên;
+h) Ở phần đường dành cho người đi bộ qua đường;
+i) Khi có người đi bộ, xe lăn của người khuyết tật qua đường;
+k) Trong hầm đường bộ.","[luat-ttatgtdb-2024:p15:B:000 | 2024 | Điều 15 | score 0.516]
+3. Khi chuyển hướng, người lái xe, người điều khiển xe máy chuyên dùng phải nhường đường cho người đi bộ, xe thô sơ, xe đi ngược chiều và chỉ chuyển hướng khi không gây trở ngại hoặc nguy hiểm cho người, phương tiện khác.
+4. Không được quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất, trên đường cao tốc, trong hầm đường bộ, trên đường một chiều, trừ khi có hiệu lệnh của người điều khiển giao thông hoặc chỉ dẫn của biển báo hiệu tạm thời.","[luat-ttatgtdb-2024:p16:B:000 | 2024 | Điều 18 | score 0.516]
+a) Có tín hiệu báo cho người điều khiển phương tiện tham gia giao thông đường bộ khác biết khi ra, vào vị trí dừng xe, đỗ xe;
+b) Không làm ảnh hưởng đến người đi bộ và các phương tiện tham gia giao thông đường bộ.
+4. Người điều khiển phương tiện tham gia giao thông đường bộ không được dừng xe, đỗ xe tại các vị trí sau đây:
+a) Bên trái đường một chiều;
+b) Trên đoạn đường cong hoặc gần đầu dốc mà tầm nhìn bị che khuất;
+c) Trên cầu, trừ những trường hợp tổ chức giao thông cho phép;
+d) Gầm cầu vượt, trừ những nơi cho phép dừng xe, đỗ xe;
+đ) Song song cùng chiều với một xe khác đang dừng, đỗ trên đường;
+e) Cách xe ô tô đang đỗ ngược chiều dưới 20 mét trên đường phố hẹp, dưới 40 mét trên đường có một làn xe cơ giới trên một chiều đường;
+g) Trên phần đường dành cho người đi bộ qua đường;
+h) Nơi đường giao nhau và trong phạm vi 05 mét tính từ mép đường giao nhau;
+i) Điểm đón, trả khách;
+k) Trước cổng và trong phạm vi 05 mét hai bên cổng trụ sở cơ quan, tổ chức có bố trí đường cho xe ra, vào;",0,filter áp dụng đúng (toàn luật 2024) nhưng top-3 không có Điều 21 về còi; top1 Điều 14 chỉ mention thời gian 22h-05h trong ngữ cảnh vượt xe; không có bằng chứng trực tiếp về quy định còi
+C,t04,"Uống rượu bia rồi lái xe, dù chỉ có một chút nồng độ cồn, có bị cấm không?",,,Có. Nghiêm cấm điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn (cả hai luật đều quy định).,luat-gtdb-2008:p10 | luat-ttatgtdb-2024:p7,Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn.,False,"[luat-gtdb-2008:p14:B:001 | 2008 | Điều 14 | score 0.479]
+Điều 14. Vượt xe
+1. Xe xin vượt phải có báo hiệu bằng đèn hoặc còi; trong đô thị và khu đông dân cư từ 22 giờ đến 5 giờ chỉ được báo hiệu xin vượt bằng đèn.
+2. Xe xin vượt chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác và đã tránh về bên phải.
+3. Khi có xe xin vượt, nếu đủ điều kiện an toàn, người điều khiển phương tiện phía trước phải giảm tốc độ, đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại đối với xe xin vượt.
+4. Khi vượt, các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải:
+a) Khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái;
+b) Khi xe điện đang chạy giữa đường;
+c) Khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được.
+5. Không được vượt xe khi có một trong các trường hợp sau đây:
+a) Không bảo đảm các điều kiện quy định tại khoản 2 Điều này;","[luat-gtdb-2008:p22:B:000 | 2008 | Điều 26 | score 0.477]
+d) Không được cho xe chạy quá tốc độ tối đa và dưới tốc độ tối thiểu ghi trên biển báo hiệu, sơn kẻ trên mặt đường.
+2. Người lái xe, người điều khiển xe máy chuyên dùng phải cho xe chạy cách nhau một khoảng cách an toàn ghi trên biển báo hiệu.
+3. Chỉ được dừng xe, đỗ xe ở nơi quy định; trường hợp buộc phải dừng xe, đỗ xe không đúng nơi quy định thì người lái xe phải đưa xe ra khỏi phần đường xe chạy, nếu không thể được thì phải báo hiệu để người lái xe khác biết.
+4. Người đi bộ, xe thô sơ, xe gắn máy, xe mô tô và máy kéo; xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn 70 km/h không được đi vào đường cao tốc, trừ người, phương tiện, thiết bị phục vụ việc quản lý, bảo trì đường cao tốc.","[luat-ttatgtdb-2024:p24:B:001 | 2024 | Điều 33 | score 0.473]
+g) Hành vi khác gây mất trật tự, an toàn giao thông đường bộ.
+4. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ không được thực hiện các hành vi sau đây:
+a) Mang, vác vật cồng kềnh;
+b) Sử dụng ô;
+c) Bám, kéo hoặc đẩy các phương tiện khác;
+d) Đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái;
+đ) Hành vi khác gây mất trật tự, an toàn giao thông đường bộ.
+5. Xe mô tô, xe gắn máy không được xếp hàng hóa vượt quá chiều rộng giá đèo hàng về mỗi bên 0,3 mét, vượt quá về phía sau giá đèo hàng 0,5 mét theo thiết kế của nhà sản xuất; chiều cao xếp hàng hóa tính từ mặt đường xe chạy không vượt quá 02 mét.",0,"top-3 giống B, không có bằng chứng về cấm nồng độ cồn (Điều 8/Điều 9)"
+C,t05,Trong những trường hợp nào người lái xe phải chuyển từ đèn pha (chiếu xa) sang đèn cốt (chiếu gần)?,,,Khi gặp người đi bộ qua đường; khi đi qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động; khi gặp xe đi ngược chiều (trừ khi dải phân cách có khả năng chống chói); khi chuyển hướng xe tại nơi đường giao nhau.,luat-ttatgtdb-2024:p17,"phải tắt đèn chiếu xa, bật đèn chiếu gần trong các trường hợp sau đây: a) Khi gặp người đi bộ qua đường; b) Khi đi trên các đoạn đường qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động; c) Khi gặp xe đi ngược chiều, trừ trường hợp dải phân cách có khả năng chống chói; d) Khi chuyển hướng xe tại nơi đường giao nhau.",True,"[luat-ttatgtdb-2024:p17:B:002 | 2024 | Điều 20 | score 0.572]
+Điều 20. Sử dụng đèn
+1. Người lái xe, người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ phải bật đèn chiếu sáng phía trước trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau hoặc khi có sương mù, khói, bụi, trời mưa, thời tiết xấu làm hạn chế tầm nhìn.
+2. Người lái xe, người điều khiển xe máy chuyên dùng phải tắt đèn chiếu xa, bật đèn chiếu gần trong các trường hợp sau đây:
+a) Khi gặp người đi bộ qua đường;
+b) Khi đi trên các đoạn đường qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động;
+c) Khi gặp xe đi ngược chiều, trừ trường hợp dải phân cách có khả năng chống chói;
+d) Khi chuyển hướng xe tại nơi đường giao nhau.
+3. Người lái xe, người điều khiển xe máy chuyên dùng khi thực hiện công việc trên đường bộ phải bật sáng đèn cảnh báo màu vàng.","[luat-ttatgtdb-2024:p14:B:001 | 2024 | Điều 14 | score 0.533]
+5. Xe xin vượt phải có báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi, trừ loại xe thô sơ không có đèn chiếu sáng và còi, khi vượt xe phải có tín hiệu báo hướng chuyển, tín hiệu báo hướng chuyển được sử dụng, bảo đảm khoảng cách an toàn với xe phía trước và phía sau trong suốt quá trình vượt xe; trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn.
+6. Không được vượt xe trong trường hợp sau đây:
+a) Khi không bảo đảm các điều kiện quy định tại khoản 3 Điều này;
+b) Trên cầu hẹp có một làn đường;
+c) Đường cong có tầm nhìn bị hạn chế;
+d) Trên đường hai chiều tại khu vực đỉnh dốc có tầm nhìn bị hạn chế;
+đ) Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt;
+e) Khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt;
+g) Khi gặp xe ưu tiên;
+h) Ở phần đường dành cho người đi bộ qua đường;
+i) Khi có người đi bộ, xe lăn của người khuyết tật qua đường;
+k) Trong hầm đường bộ.","[luat-gtdb-2008:p20:B:003 | 2008 | Điều 25 | score 0.527]
+3. Tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu, khi đèn tín hiệu mầu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu, người tham gia giao thông đường bộ phải dừng ngay lại và giữ khoảng cách tối thiểu 5 mét tính từ ray gần nhất; khi đèn tín hiệu đã tắt hoặc tiếng chuông báo hiệu ngừng mới được đi qua.",2,top1 có Điều 20 luật 2024 đầy đủ 4 trường hợp chuyển đèn chiếu xa→gần; giống kết quả B

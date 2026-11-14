@@ -1,0 +1,857 @@
+{
+  "accessed_at": "2026-11-14",
+  "counting_rule": "Trang vật lý được tính là trang nội dung nếu text sau trích xuất PyMuPDF + chuẩn hóa (src/ingestion.py) >= 200 ký tự và không bị đánh dấu lỗi (trang trống; trích xuất sai dấu tiếng Việt).",
+  "sources": [
+    {
+      "source_id": "luat-gtdb-2008",
+      "title": "Luật Giao thông đường bộ số 23/2008/QH12 — Văn bản hợp nhất 15/VBHN-VPQH ngày 05/7/2019",
+      "source_path_or_url": "https://sgu.edu.vn/wp-content/uploads/2024/05/Luat-Giao-thong-duong-bo-nam-2019.pdf",
+      "local_path": "data/raw/luat23_2008_vbhn2019_sgu.pdf",
+      "sha256": "654270ab98a8ae5888feec6cdcb62f5ae1ff491760dbb8235e38002d0b580cd3",
+      "snapshot_or_version": "Bản in Công báo số 729+730 ngày 05/9/2019 (hợp nhất sửa đổi bởi Luật 35/2018/QH14 và Luật 44/2019/QH14)",
+      "license_or_permission": "Văn bản quy phạm pháp luật và văn bản hợp nhất của cơ quan nhà nước: không thuộc đối tượng bảo hộ quyền tác giả theo Điều 15 Luật Sở hữu trí tuệ. Tài liệu công khai, không chứa dữ liệu cá nhân.",
+      "accessed_at": "2026-11-14",
+      "language": "vi",
+      "law_id": "23/2008/QH12",
+      "law_year": 2008,
+      "effective_from": "2009-07-01",
+      "physical_pages": 61,
+      "content_pages": 60,
+      "content_chars": 96252,
+      "pages": [
+        {
+          "page_id": "luat-gtdb-2008:p1",
+          "page": 1,
+          "chars": 777,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p2",
+          "page": 2,
+          "chars": 2106,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p3",
+          "page": 3,
+          "chars": 1773,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p4",
+          "page": 4,
+          "chars": 1780,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p5",
+          "page": 5,
+          "chars": 1642,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p6",
+          "page": 6,
+          "chars": 1781,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p7",
+          "page": 7,
+          "chars": 1431,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p8",
+          "page": 8,
+          "chars": 1733,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p9",
+          "page": 9,
+          "chars": 1949,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p10",
+          "page": 10,
+          "chars": 1537,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p11",
+          "page": 11,
+          "chars": 1385,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p12",
+          "page": 12,
+          "chars": 1632,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p13",
+          "page": 13,
+          "chars": 1700,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p14",
+          "page": 14,
+          "chars": 1552,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p15",
+          "page": 15,
+          "chars": 1528,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p16",
+          "page": 16,
+          "chars": 1698,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p17",
+          "page": 17,
+          "chars": 1445,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p18",
+          "page": 18,
+          "chars": 1521,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p19",
+          "page": 19,
+          "chars": 1525,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p20",
+          "page": 20,
+          "chars": 1727,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p21",
+          "page": 21,
+          "chars": 1891,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p22",
+          "page": 22,
+          "chars": 1782,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p23",
+          "page": 23,
+          "chars": 1481,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p24",
+          "page": 24,
+          "chars": 1492,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p25",
+          "page": 25,
+          "chars": 1593,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p26",
+          "page": 26,
+          "chars": 1738,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p27",
+          "page": 27,
+          "chars": 1517,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p28",
+          "page": 28,
+          "chars": 1544,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p29",
+          "page": 29,
+          "chars": 1778,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p30",
+          "page": 30,
+          "chars": 1956,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p31",
+          "page": 31,
+          "chars": 1634,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p32",
+          "page": 32,
+          "chars": 1868,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p33",
+          "page": 33,
+          "chars": 1728,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p34",
+          "page": 34,
+          "chars": 1230,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p35",
+          "page": 35,
+          "chars": 1869,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p36",
+          "page": 36,
+          "chars": 1616,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p37",
+          "page": 37,
+          "chars": 1310,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p38",
+          "page": 38,
+          "chars": 1894,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p39",
+          "page": 39,
+          "chars": 1562,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p40",
+          "page": 40,
+          "chars": 1834,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p41",
+          "page": 41,
+          "chars": 1502,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p42",
+          "page": 42,
+          "chars": 1461,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p43",
+          "page": 43,
+          "chars": 1469,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p44",
+          "page": 44,
+          "chars": 1817,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p45",
+          "page": 45,
+          "chars": 1780,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p46",
+          "page": 46,
+          "chars": 1574,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p47",
+          "page": 47,
+          "chars": 932,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p48",
+          "page": 48,
+          "chars": 1528,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p49",
+          "page": 49,
+          "chars": 1731,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p50",
+          "page": 50,
+          "chars": 1780,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p51",
+          "page": 51,
+          "chars": 1592,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p52",
+          "page": 52,
+          "chars": 1711,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p53",
+          "page": 53,
+          "chars": 1613,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p54",
+          "page": 54,
+          "chars": 1690,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p55",
+          "page": 55,
+          "chars": 1647,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p56",
+          "page": 56,
+          "chars": 1567,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p57",
+          "page": 57,
+          "chars": 1850,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p58",
+          "page": 58,
+          "chars": 1961,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p59",
+          "page": 59,
+          "chars": 972,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p60",
+          "page": 60,
+          "chars": 536,
+          "counted": true
+        },
+        {
+          "page_id": "luat-gtdb-2008:p61",
+          "page": 61,
+          "chars": 0,
+          "counted": false,
+          "excluded_reason": "Trang trống (không có text); auto-check: empty_or_short (<200 chars)"
+        }
+      ]
+    },
+    {
+      "source_id": "luat-ttatgtdb-2024",
+      "title": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 — Văn bản hợp nhất 55/VBHN-VPQH (2026)",
+      "source_path_or_url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+      "local_path": "data/raw/vbhn55_2026_chinhphu.pdf",
+      "sha256": "9a20c8e616d444e3abe63c765a225d0797b7079c9a18e5fe7da0fc4f46847dac",
+      "snapshot_or_version": "Hợp nhất sửa đổi bởi Luật 118/2025/QH15 (hiệu lực 01/7/2026)",
+      "license_or_permission": "Văn bản quy phạm pháp luật và văn bản hợp nhất của cơ quan nhà nước: không thuộc đối tượng bảo hộ quyền tác giả theo Điều 15 Luật Sở hữu trí tuệ. Tài liệu công khai, không chứa dữ liệu cá nhân.",
+      "accessed_at": "2026-11-14",
+      "language": "vi",
+      "law_id": "36/2024/QH15",
+      "law_year": 2024,
+      "effective_from": "2025-01-01",
+      "physical_pages": 74,
+      "content_pages": 73,
+      "content_chars": 164267,
+      "pages": [
+        {
+          "page_id": "luat-ttatgtdb-2024:p1",
+          "page": 1,
+          "chars": 920,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p2",
+          "page": 2,
+          "chars": 2473,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p3",
+          "page": 3,
+          "chars": 2614,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p4",
+          "page": 4,
+          "chars": 2840,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p5",
+          "page": 5,
+          "chars": 2242,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p6",
+          "page": 6,
+          "chars": 1770,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p7",
+          "page": 7,
+          "chars": 2283,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p8",
+          "page": 8,
+          "chars": 2253,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p9",
+          "page": 9,
+          "chars": 2440,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p10",
+          "page": 10,
+          "chars": 1852,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p11",
+          "page": 11,
+          "chars": 2282,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p12",
+          "page": 12,
+          "chars": 2025,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p13",
+          "page": 13,
+          "chars": 2250,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p14",
+          "page": 14,
+          "chars": 2213,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p15",
+          "page": 15,
+          "chars": 2482,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p16",
+          "page": 16,
+          "chars": 2139,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p17",
+          "page": 17,
+          "chars": 1972,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p18",
+          "page": 18,
+          "chars": 1978,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p19",
+          "page": 19,
+          "chars": 2711,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p20",
+          "page": 20,
+          "chars": 2138,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p21",
+          "page": 21,
+          "chars": 2371,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p22",
+          "page": 22,
+          "chars": 2457,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p23",
+          "page": 23,
+          "chars": 2256,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p24",
+          "page": 24,
+          "chars": 1857,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p25",
+          "page": 25,
+          "chars": 2451,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p26",
+          "page": 26,
+          "chars": 1541,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p27",
+          "page": 27,
+          "chars": 2105,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p28",
+          "page": 28,
+          "chars": 2440,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p29",
+          "page": 29,
+          "chars": 2653,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p30",
+          "page": 30,
+          "chars": 2045,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p31",
+          "page": 31,
+          "chars": 2334,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p32",
+          "page": 32,
+          "chars": 2341,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p33",
+          "page": 33,
+          "chars": 2457,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p34",
+          "page": 34,
+          "chars": 1801,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p35",
+          "page": 35,
+          "chars": 2442,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p36",
+          "page": 36,
+          "chars": 2094,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p37",
+          "page": 37,
+          "chars": 2498,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p38",
+          "page": 38,
+          "chars": 2198,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p39",
+          "page": 39,
+          "chars": 2051,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p40",
+          "page": 40,
+          "chars": 2296,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p41",
+          "page": 41,
+          "chars": 2693,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p42",
+          "page": 42,
+          "chars": 2395,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p43",
+          "page": 43,
+          "chars": 2421,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p44",
+          "page": 44,
+          "chars": 2194,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p45",
+          "page": 45,
+          "chars": 2416,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p46",
+          "page": 46,
+          "chars": 2616,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p47",
+          "page": 47,
+          "chars": 2326,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p48",
+          "page": 48,
+          "chars": 2504,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p49",
+          "page": 49,
+          "chars": 2270,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p50",
+          "page": 50,
+          "chars": 1845,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p51",
+          "page": 51,
+          "chars": 1939,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p52",
+          "page": 52,
+          "chars": 2017,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p53",
+          "page": 53,
+          "chars": 2102,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p54",
+          "page": 54,
+          "chars": 1872,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p55",
+          "page": 55,
+          "chars": 2242,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p56",
+          "page": 56,
+          "chars": 2449,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p57",
+          "page": 57,
+          "chars": 2287,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p58",
+          "page": 58,
+          "chars": 2857,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p59",
+          "page": 59,
+          "chars": 2620,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p60",
+          "page": 60,
+          "chars": 2519,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p61",
+          "page": 61,
+          "chars": 2321,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p62",
+          "page": 62,
+          "chars": 2072,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p63",
+          "page": 63,
+          "chars": 2485,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p64",
+          "page": 64,
+          "chars": 2358,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p65",
+          "page": 65,
+          "chars": 2261,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p66",
+          "page": 66,
+          "chars": 2740,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p67",
+          "page": 67,
+          "chars": 2554,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p68",
+          "page": 68,
+          "chars": 2227,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p69",
+          "page": 69,
+          "chars": 1801,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p70",
+          "page": 70,
+          "chars": 1778,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p71",
+          "page": 71,
+          "chars": 1614,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p72",
+          "page": 72,
+          "chars": 2548,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p73",
+          "page": 73,
+          "chars": 2359,
+          "counted": true
+        },
+        {
+          "page_id": "luat-ttatgtdb-2024:p74",
+          "page": 74,
+          "chars": 1662,
+          "counted": false,
+          "excluded_reason": "Phần cuối Điều 89 (khoản 4 trở đi) + trang xác thực: lớp text sai, mất dấu tiếng Việt (vd. \"Lu~t\", \"Qu6c h()i\") -> nội dung bị mất, không OCR; auto-check: garbled_extraction (Vietnamese diacritics missing / wrong glyphs)"
+        }
+      ]
+    }
+  ],
+  "total_content_pages": 133
+}

@@ -1,0 +1,32 @@
+{
+  "A": {
+    "params": {
+      "size": 500,
+      "overlap": 50
+    },
+    "chunks": 629,
+    "total_chars": 283765,
+    "len_min": 52,
+    "len_median": 497,
+    "len_p90": 499,
+    "len_max": 499,
+    "missing_dieu_metadata": 3,
+    "dev_evidence_split_across_chunks": [
+      "d08",
+      "d14"
+    ]
+  },
+  "B": {
+    "params": {
+      "max_size": 1000
+    },
+    "chunks": 426,
+    "total_chars": 260226,
+    "len_min": 31,
+    "len_median": 646,
+    "len_p90": 959,
+    "len_max": 1026,
+    "missing_dieu_metadata": 4,
+    "dev_evidence_split_across_chunks": []
+  }
+}

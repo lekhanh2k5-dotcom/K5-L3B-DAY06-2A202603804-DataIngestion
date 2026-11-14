@@ -2,3 +2,8 @@
 psycopg[binary]==3.3.8
 pypdf>=5,<7
 python-dotenv>=1,<2
+
+# Day 06 setup (Chroma local + OpenRouter embeddings)
+chromadb==1.5.9
+openai==3.51.0
+pymupdf==2.1

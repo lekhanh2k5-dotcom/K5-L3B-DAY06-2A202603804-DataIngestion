@@ -1,0 +1,69 @@
+{
+  "run_at": "2026-11-14T03:17:44+00:00",
+  "split": "dev",
+  "embedding_model": "openai/text-embedding-3-small",
+  "query_embedding_usage": {
+    "requests": 16,
+    "prompt_tokens": 612,
+    "cost_usd": 1.224e-05
+  },
+  "chunk_counts": {
+    "A": 629,
+    "B": 426
+  },
+  "metrics": {
+    "A": {
+      "dev": {
+        "N": 15,
+        "hit@1": "8/15",
+        "evidence_hit@3": "10/15",
+        "page_hit@3": "10/15",
+        "filter_compliance": "0/5",
+        "hit@1_rate": 0.533,
+        "hit@3_rate": 0.667,
+        "misses@3": [
+          "d04",
+          "d08",
+          "d09",
+          "d12",
+          "d14"
+        ],
+        "mean_search_ms": 4.1
+      }
+    },
+    "B": {
+      "dev": {
+        "N": 15,
+        "hit@1": "9/15",
+        "evidence_hit@3": "12/15",
+        "page_hit@3": "12/15",
+        "filter_compliance": "1/5",
+        "hit@1_rate": 0.6,
+        "hit@3_rate": 0.8,
+        "misses@3": [
+          "d08",
+          "d09",
+          "d14"
+        ],
+        "mean_search_ms": 2.9
+      }
+    },
+    "C": {
+      "dev": {
+        "N": 15,
+        "hit@1": "9/15",
+        "evidence_hit@3": "12/15",
+        "page_hit@3": "12/15",
+        "filter_compliance": "5/5",
+        "hit@1_rate": 0.6,
+        "hit@3_rate": 0.8,
+        "misses@3": [
+          "d08",
+          "d09",
+          "d14"
+        ],
+        "mean_search_ms": 3.7
+      }
+    }
+  }
+}
